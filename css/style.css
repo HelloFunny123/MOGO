@@ -71,8 +71,8 @@ button:not(header button) {
 
 .navbar-light .navbar-nav .active .nav-link,
 .navbar-light .navbar-nav .nav-link:hover {
-	background-color: var(--third-color);
-	color: var(--second-color);
+	background-color: #1bbc9b;
+	color: #fff;
 }
 
 .navbar {
