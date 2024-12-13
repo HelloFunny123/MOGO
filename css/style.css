@@ -71,8 +71,8 @@ button:not(header button) {
 
 .navbar-light .navbar-nav .active .nav-link,
 .navbar-light .navbar-nav .nav-link:hover {
-	background-color: #1bbc9b;
-	color: #fff;
+	background-color: var(--third-color);
+	color: var(--second-color);
 }
 
 .navbar {
@@ -155,10 +155,6 @@ button:not(header button) {
 
 .portfolio button.active {
 	background-color: var(--fourth-color);
-}
-
-.portfolio img {
-	/*margin-bottom: 34px;*/
 }
 
 .portfolio .box {
